@@ -1,0 +1,18 @@
+.itc-slider-btn-prev::before {
+    background-image: url(img/slider-btn-prev.svg);
+  }
+  
+  .itc-slider-btn-next::before {
+    background-image: url(img/slider-btn-next.svg);
+  }
+  .main_uslugi_slider {
+    max-width: 1435px;
+    margin: auto;
+    padding: 0 20px;
+    position: relative;
+}
+.main_uslugi_slider img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
